@@ -1,4 +1,4 @@
-# vue-game-1
+# Vue 简易井字棋
 
 ## Project setup
 ```
